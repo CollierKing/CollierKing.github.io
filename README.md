@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Start Bootstrap - Portfolio Item](https://startbootstrap.com/template-overviews/portfolio-item/)
 
 [Portfolio Item](http://startbootstrap.com/template-overviews/portfolio-item/) is an individual portfolio item template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
@@ -60,3 +61,39 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-portfolio-item/blob/gh-pages/LICENSE) license.
+=======
+## Machine Learning
+
+- Unsupervised
+
+    - [City Bars with Yelp](https://collierking.github.io/Cities_Bars_Yelp/)
+        - Principal Component Analysis & K-Means
+    
+    - [Job Postings with Indeed]
+        - TF-IDF & Local Sensitivity Hashing
+        
+    - [Fantasy Football] 
+        - Principal Component Analysis & K-Means
+  
+ - Supervised
+  
+    - [Real Estate Pricing with Har.com]
+        - Linear Regression
+
+## Financial Modeling
+
+- Technical Analysis
+
+
+## Interactive Dashboards
+
+- Visualizations
+
+    - [Stock Chart & Key Financial Data Generator](https://collier.shinyapps.io/StockScreener/)
+        - R Shiny [Github Repo](https://github.com/CollierKing/Shiny_StockScreener)
+
+- Statistical Tools
+
+    - [Marketing Research Calculator](https://collier.shinyapps.io/Shiny_StatCalculator/)
+        - R Shiny [Github Repo](https://github.com/CollierKing/Shiny_StatCalculator)
+>>>>>>> 1b168ef34a7bba9aa714466f4fdd6600eca55366
